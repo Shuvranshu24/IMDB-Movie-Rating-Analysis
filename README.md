@@ -13,13 +13,3 @@ https://www.kaggle.com/shuvranshu/imdb-movie-rating
 - If you're using google colab then first upload the csv file in your colab then use the pd.read_csv('') to import the file.
 
 - And for Jupyter simply use the pd.read_csv('') and copy paste the path of your csv file from your desktop.
-
-# Connect with me on :
-
-LinkedIn: www.linkedin.com/in/shuvranshu
-
-Github: https://github.com/Shuvranshu24
-
-Twitter: https://twitter.com/shuvranshu_24
-
-Kaggle: https://www.kaggle.com/shuvranshu
